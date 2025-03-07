@@ -9,3 +9,6 @@ OG tags for better social media sharing.
 A favicon linked in the head section.
 ## ⚙ Installation
 1. Clone the repository:
+2. [CLICK HERE] (https://github.com/inhumanstrike/Resume1)
+
+   [roadmap.sh url](https://roadmap.sh/projects/single-page-cv)
